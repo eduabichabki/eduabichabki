@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @eduabichabki (Eduardo Abichabki) and I am from Brazil.
+- 👀 I’m interested in a position as Data Analyst.
+- 🌱 I’m currently learning Python!
+- 💞️ I’m looking to collaborate on new projects so I can always learn more.
+- 📫 You can email me on edu.abichabki@gmail.com or whatsapp me on +5535998381680
